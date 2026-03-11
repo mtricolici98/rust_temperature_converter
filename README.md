@@ -2,4 +2,4 @@
 
 Nothing to fancy
 
-[](!./docs/demo)
+![](./docs/demo)
